@@ -10,7 +10,7 @@
 
 * NOT: İster aynı sunucuya ister farklı sunucuya.. Benim sunucumda 20-30 GB yer kapladı.
 
-* NOT: Düşük bir sunucunuz varsa farklı sunucuya kurun.
+* NOT: Düşük bir sunucunuz varsa farklı sunucuya kurun..
 
 * NOT: Ben gaia kurmak ıstemıyorum var olan nodelara kurmak istiyorsanız SEİ-STRIDE hermes floodu dün yazmıştım [buradan](https://github.com/ruesandora/stride-testnet/blob/main/stride-sei-hermes.md) bulabilirsiniz.
 
